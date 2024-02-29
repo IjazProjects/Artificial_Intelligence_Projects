@@ -28,8 +28,6 @@ This repository is dedicated to a collection of Artificial Intelligence projects
 
 **Objective**: Implement decision trees and forests for binary classification. The program will learn from training data and apply the learned model to classify test data.
 
-**Implementation**: `dtree training_file test_file option`
+## Notice
 
-- `training_file` and `test_file`: Specify the training and testing datasets.
-- `option`: Select from `optimized`, `randomized`, `forest3`, or `forest15` for the training method.
-
+The projects contained within this repository are for displaying my work and for learning purposes. **Please do not replicate or use this code for university projects or assignments.** 
